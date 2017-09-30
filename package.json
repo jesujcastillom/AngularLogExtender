@@ -11,7 +11,7 @@
   },
   "main": "dist/log-ex-unobtrusive.js",
   "license": "MIT",
-  "version": "0.0.15",
+  "version": "0.0.14",
   "engine": "node >= 0.10.0",
   "supported_versions": [
     "1.0.4",
