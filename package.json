@@ -3,10 +3,10 @@
   "appname": "Log Unobtrusive Extension",
   "description": "Used within AngularJS to enhance functionality within the AngularJS $log service.",
   "author": "A confused individual <ferronrsmith@gmail.com>",
-  "website": "https://github.com/lwhiteley/AngularLogExtender",
+  "website": "https://github.com/jesujcastillom/AngularLogExtender",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lwhiteley/AngularLogExtender.git"
+    "url": "https://github.com/jesujcastillom/AngularLogExtender.git"
   },
   "main": "dist/log-ex-unobtrusive.js",
   "license": "MIT",
