@@ -43,7 +43,7 @@
     "grunt-open": "~0.2.3",
     "grunt-shell": "~1.2.1",
     "grunt-tagrelease": "https://github.com/ferronrsmith/grunt-tagrelease/tarball/v0.3.4",
-    "karma": "~0.13.21",
+    "karma": "~5.2.0",
     "karma-chrome-launcher": "^0.2.2",
     "karma-coverage": "^0.5.5",
     "karma-jasmine": "~0.1.6",
